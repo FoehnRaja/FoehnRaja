@@ -213,8 +213,8 @@ hr{
     background-color:rgba(0,0,0,.2);
     padding-bottom:1%;
 }
-.container-projects .col-lg-6{
-    margin-left:15%;
+.container-projects .col-xl-6{
+    margin-left:13%;
     margin-right:-20%;
     margin-top:-7%;
     margin-bottom:10%
@@ -303,7 +303,7 @@ hr{
 .carousel-item{
     height:40%;
 }
-.col-lg-6{
+.col-xl-6{
     position:static;
 }
 @media screen and (max-width:1000px){
@@ -879,7 +879,7 @@ hr{
     .carousel-item{
         height:40%;
     }
-    .col-lg-6{
+    .col-xl-6{
         position:static;
     }
 }
