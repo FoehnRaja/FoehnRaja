@@ -481,7 +481,7 @@ hr{
     background-color:rgba(0,0,0,.2);
     padding-bottom:0.2%;
 }
-.container-projects .col-lg-6{
+.container-projects .col-xl-6{
     margin-left:15%;
     margin-right:-20%;
     margin-top:0.5%;
@@ -651,8 +651,9 @@ hr{
         color:black;
         margin-bottom:-0.5%;
     }
+
     .container .name{
-        margin-top:19%;
+        margin-top:15rem;
         text-align:center;
         font-size:1.75rem;
         color:black;
@@ -881,5 +882,14 @@ hr{
     }
     .col-xl-6{
         position:static;
+    }
+}
+@media screen and (min-width:1900px){
+    .container .name{
+        margin-top:18rem;
+        text-align:center;
+        font-size:1.75rem;
+        color:black;
+        margin-bottom:-0.5%;
     }
 }
