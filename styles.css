@@ -306,9 +306,6 @@ margin-top:5%;
     margin-left:auto;
     margin-right:auto;
 }
-.carousel-item{
-    height:40%;
-}
 .col-xl-6{
     position:static;
 }
@@ -832,11 +829,11 @@ margin-top:5%;
         height:40%;
         margin-left:auto;
         margin-right:auto;
-        position:static;
+    
     }
     .carousel-item{
         height:40%;
-        position:static;
+
     }
     .container-atlas hr{
             width:98%;
